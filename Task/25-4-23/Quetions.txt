@@ -1,0 +1,16 @@
+Q-1 What is Keyword?give few example of Keywords.
+Ans: Keywords means reserved words that have special meaning. for ex. int, float, const, char, for etc.
+
+Q-2 What is Variables?
+Ans: Variables are the name you give to computer memory locations which are used to store values in computer program, like number and characters.
+
+Q-3 What is Data types?
+Ans: A particular kind of data, datatype specify the type of data that variable can store such like integer,character,floating,strings.
+
+Q-4 What is operator and what is oprand?
+Ans: An operator is a symbol that tells the compiler to perform specific mathematical or logical functions. for ex ++,-- etc and opearnd is the object of that mathematicl operation.
+for ex a+b; here a and b is oprand and + is operator.
+
+Q-5 When we use int main and void main?
+Ans: When our program is simple and code is error free and not terminate before reaching las line of code then we use void main.
+    When the function returns some integer at the end of the program execution then we use int main.
